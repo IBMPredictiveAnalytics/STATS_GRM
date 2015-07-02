@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_GRM.R:75
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Pakiet R %s jest wymagany, ale nie można było go wczytać."
+
+#: STATS_GRM.R:84
+msgid "ERROR:"
+msgstr ""
+"BŁĄD:"
+
+#: STATS_GRM.R:92
+msgid "Graded Respose Model"
+msgstr ""
+"Model ocenianych odpowiedzi"
+
+#: STATS_GRM.R:100
+msgid "Summary"
+msgstr ""
+"Podsumowanie"
+
+#: STATS_GRM.R:109
+msgid "Coefficients"
+msgstr ""
+"Współczynniki"
+
+#: STATS_GRM.R:135
+msgid "Response pattern"
+msgstr ""
+"Wzór odpowiedzi"
+
+#: STATS_GRM.R:137
+msgid "Item %s"
+msgstr ""
+"Element %s"
+
+#: STATS_GRM.R:140
+msgid "Observed frequency"
+msgstr ""
+"Zaobserwowana częstotliwość"
+
+#: STATS_GRM.R:141
+msgid "Expected frequency"
+msgstr ""
+"Oczekiwana częstotliwość"
+
+#: STATS_GRM.R:142
+msgid "Factor scores"
+msgstr ""
+"Oceny czynników"
+
+#: STATS_GRM.R:143
+msgid "Factor scores standard errors"
+msgstr ""
+"Standardowe błędy ocen czynników"
+
+#: STATS_GRM.R:144
+msgid "Residuals"
+msgstr ""
+"Reszty"
+
+#: STATS_GRM.R:167
+msgid "Failed to create factor scores dataset. Dataset name must not already exist: "
+msgstr ""
+"Nie udało się utworzyć zbioru danych ocen czynnikowych. Nazwa zbioru danych nie może już istnieć: "
+
+
