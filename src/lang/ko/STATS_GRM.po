@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_GRM.R:75
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+#: STATS_GRM.R:84
+msgid "ERROR:"
+msgstr ""
+"오차:"
+
+#: STATS_GRM.R:92
+msgid "Graded Respose Model"
+msgstr ""
+"등급 반응 모형"
+
+#: STATS_GRM.R:100
+msgid "Summary"
+msgstr ""
+"요약"
+
+#: STATS_GRM.R:109
+msgid "Coefficients"
+msgstr ""
+"계수"
+
+#: STATS_GRM.R:135
+msgid "Response pattern"
+msgstr ""
+"반응 패턴"
+
+#: STATS_GRM.R:137
+msgid "Item %s"
+msgstr ""
+"항목 %s"
+
+#: STATS_GRM.R:140
+msgid "Observed frequency"
+msgstr ""
+"관측빈도"
+
+#: STATS_GRM.R:141
+msgid "Expected frequency"
+msgstr ""
+"기대빈도"
+
+#: STATS_GRM.R:142
+msgid "Factor scores"
+msgstr ""
+"요인점수"
+
+#: STATS_GRM.R:143
+msgid "Factor scores standard errors"
+msgstr ""
+"요인점수 표준오차"
+
+#: STATS_GRM.R:144
+msgid "Residuals"
+msgstr ""
+"잔차"
+
+#: STATS_GRM.R:167
+msgid "Failed to create factor scores dataset. Dataset name must not already exist: "
+msgstr ""
+"요인점수 데이터 세트를 작성하지 못했습니다. 데이터 세트 이름이 존재하지 않아야 합니다."
+
+
