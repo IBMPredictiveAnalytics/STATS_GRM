@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_GRM.R:75
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"需要 R %s 程序包，但未能将其装入。"
+
+#: STATS_GRM.R:84
+msgid "ERROR:"
+msgstr ""
+"错误："
+
+#: STATS_GRM.R:92
+msgid "Graded Respose Model"
+msgstr ""
+"分级响应模型"
+
+#: STATS_GRM.R:100
+msgid "Summary"
+msgstr ""
+"摘要"
+
+#: STATS_GRM.R:109
+msgid "Coefficients"
+msgstr ""
+"系数"
+
+#: STATS_GRM.R:135
+msgid "Response pattern"
+msgstr ""
+"响应模式"
+
+#: STATS_GRM.R:137
+msgid "Item %s"
+msgstr ""
+"项 %s"
+
+#: STATS_GRM.R:140
+msgid "Observed frequency"
+msgstr ""
+"实测频率"
+
+#: STATS_GRM.R:141
+msgid "Expected frequency"
+msgstr ""
+"期望频率"
+
+#: STATS_GRM.R:142
+msgid "Factor scores"
+msgstr ""
+"因子得分"
+
+#: STATS_GRM.R:143
+msgid "Factor scores standard errors"
+msgstr ""
+"因子得分标准误差"
+
+#: STATS_GRM.R:144
+msgid "Residuals"
+msgstr ""
+"残差"
+
+#: STATS_GRM.R:167
+msgid "Failed to create factor scores dataset. Dataset name must not already exist: "
+msgstr ""
+"创建因子得分数据集失败。数据集名称必须不存在："
+
+
