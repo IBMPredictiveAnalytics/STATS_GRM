@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>STATS GRM</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>STATS GRM</h1>
+
+<p>Estimate Birnbaum&#39;s three-parameter item response theory model.</p>
+<div class="syntax">
+<p>STATS GRM 
+  /VARIABLES ITEMS=<em>variable list</em><sup>&#42;</sup></p>
+
+<p>/OPTIONS MISSING=LISTWISE<sup>&#42;&#42;</sup> or 
+  ALLAVAILABLE EXECUTE=TRUE<sup>&#42;&#42;</sup> or FALSE</p>
+
+<p>/PRINT SUMMARY</p>
+
+<p>/PLOT FACTORSCORES ICC IIC</p>
+
+<p>/SAVE PROGRAMFILE=&ldquo;<em>filespec</em>&rdquo;
+FACTORSCORESDATASET=<em>dataset</em></p>
+
+
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>Split files and weight are not honored by this command.</p>
+
+<p>STATS GRM /HELP.  prints this information and does nothing else.</p>
+
+<pre class="example"><code>STATS GRM /VARIABLES ITEMS=item1 item2 item3 item4 item5.
+</code></pre>
+
+<p><strong>VARIABLES</strong> specifies the items.
+The values should be 0 or 1.</p>
+
+<h2>OPTIONS</h2>
+
+<p><strong>MISSING</strong>=LISTWISE causes listwise deletion of missing values.  
+<strong>ALLAVAILABLE</strong>
+causes all available information to be used; i.e., cases with missing values
+are still used.</p>
+
+<p><strong>EXECUTE</strong>=FALSE processes the command syntax without executing it.
+This is mainly useful in combination with SAVE PROGRAMFILE.</p>
+
+<h2>PRINT</h2>
+
+<p><strong>SUMMARY</strong> displays the Akaike Information Criterion (AIC) and Bayesian Information
+Criterion (BIC) for the model.</p>
+
+<h2>PLOT</h2>
+
+<p><strong>FACTORSCORES</strong> displays a plot of kernel density estimates for the factor scores 
+(people parameters).</p>
+
+<p><strong>ICC</strong> displays a plot of the item characteristic curves for the model.</p>
+
+<p><strong>IIC</strong> displays a plot of the iterm information curves for the model.</p>
+
+<h2>SAVE</h2>
+
+<p><strong>PROGRAMFILE</strong> causes the R code that implements the procedure to be 
+written to the specified file.</p>
+
+<p><strong>FACTORSCORESDATASET</strong> creates a new dataset that contains a case for each observed 
+response pattern, variables that describe the response patterns (one for each
+item), and variables containing the Observed frequency, Expected frequency, Factor 
+scores, Factor scores standard errors, and Residuals.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
