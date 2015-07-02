@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_GRM.R:75
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Le pack R %s est requis mais n'a pas pu être chargé."
+
+#: STATS_GRM.R:84
+msgid "ERROR:"
+msgstr ""
+"ERREUR :"
+
+#: STATS_GRM.R:92
+msgid "Graded Respose Model"
+msgstr ""
+"Modèle de réponse graduée"
+
+#: STATS_GRM.R:100
+msgid "Summary"
+msgstr ""
+"Récapitulatif"
+
+#: STATS_GRM.R:109
+msgid "Coefficients"
+msgstr ""
+"Coefficients"
+
+#: STATS_GRM.R:135
+msgid "Response pattern"
+msgstr ""
+"Motif de réponse"
+
+#: STATS_GRM.R:137
+msgid "Item %s"
+msgstr ""
+"Elément %s"
+
+#: STATS_GRM.R:140
+msgid "Observed frequency"
+msgstr ""
+"Fréquence observée"
+
+#: STATS_GRM.R:141
+msgid "Expected frequency"
+msgstr ""
+"Fréquence attendue"
+
+#: STATS_GRM.R:142
+msgid "Factor scores"
+msgstr ""
+"Scores factoriels"
+
+#: STATS_GRM.R:143
+msgid "Factor scores standard errors"
+msgstr ""
+"Erreurs standard des scores factoriels"
+
+#: STATS_GRM.R:144
+msgid "Residuals"
+msgstr ""
+"Résidus"
+
+#: STATS_GRM.R:167
+msgid "Failed to create factor scores dataset. Dataset name must not already exist: "
+msgstr ""
+"Impossible de créer le jeu de données des scores factoriels. Le nom du jeu de données ne doit pas déjà exister : "
+
+
