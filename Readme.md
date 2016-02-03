@@ -1,11 +1,11 @@
 # STATS_GRM
 ## Fit graded response models to ordinal data
- Fits the grm function from the R ltm package to graded re
+ Fits the grm function from the R ltm package to graded response data.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
 
 ---
 Installation intructions
