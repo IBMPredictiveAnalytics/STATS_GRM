@@ -1,4 +1,5 @@
 Name: STATS_GRM
+Display-Name: Graded Response Model
 Dialog-Specs: STATS_GRM.spd
 Command-Specs: STATS_GRM.xml
 Code-Files: STATS_GRM.R
@@ -7,7 +8,7 @@ Summary: Fit graded response models to ordinal data
 Description: Fits the grm function from the R ltm package to graded re
  sponse data
 Author: Alex Reutter, IBM SPSS
-Version: 1.1.7
+Version: 1.1.6
 Product-Version: 18
 Date: 12/21/2011
 Links: http://wiki.r-project.org/rwiki/doku.php?id=packages:cran:ltm
